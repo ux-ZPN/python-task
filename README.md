@@ -9,18 +9,17 @@ A simple calculator program that takes two numbers from the user and displays th
 <ins>task 2.py</ins>
 A greeting program that asks for your first and last name, then prints a welcome message using your full name.
 
+<ins>task 3.py</ins>
+Check if a Number is Even or Odd
+
+<ins>task 4.py</ins>
+Sum of Integers from 1 to 50 Using a Loop
+
 How to Run
 Make sure you have Python installed.
 
 Open a terminal or command prompt.
 
-Run the desired file using:
-
-*python task 1.py*
-
-or
-
-*python task 2.py*
 
 Author
 Created by Anuj Dutta for Python practice.
